@@ -1,0 +1,31 @@
+body{
+    justify-items:center;
+    background-image: url("C:\\xampp\\htdocs\\web\\bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+}
+
+.parent{
+    justify-items: center;
+    align-items:center;
+    display:flex;
+    vertical-align:center;
+    padding: 30px 290px;
+}
+
+.emp{
+    border-style: none;
+    margin-right:100px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font-size: 24;
+}
+
+.admin{
+    border-style: none;
+    text-align: center;
+    color:white;
+    font-size: 24;
+}
